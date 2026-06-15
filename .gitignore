@@ -1,0 +1,16 @@
+# Credenciais — NUNCA subir pro GitHub
+.env
+
+# Dependências (instaladas automaticamente)
+node_modules/
+
+# Estoque (fica no servidor, não no GitHub)
+data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
